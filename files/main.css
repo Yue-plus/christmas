@@ -166,7 +166,7 @@ html, body {
   left: 50%;
   top: 50%;
   margin: -1700px 0 0 -1700px;
-  border: 1650px solid #fff;
+  border: 1650px solid RGBA(0, 0, 0, .1);
   border-radius: 2000px;
   overflow: hidden;
   display: block;
