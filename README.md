@@ -1,7 +1,8 @@
-Bring me a Tree
+圣诞树
 =========
 
-A CSS3 animation I did for Christmas Experiment 2nd edition.
-http://christmasexperiments.com/2013/11/
+使用 CSS3 制作的圣诞树动画。
 
-Merry Christmas (:
+https://yue-plus.github.io/christmas/
+
+圣诞节快乐 :-)
